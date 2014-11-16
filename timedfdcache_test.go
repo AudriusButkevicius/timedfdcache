@@ -1,4 +1,4 @@
-package fdcache
+package timedfdcache
 
 import (
 	"io/ioutil"
